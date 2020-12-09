@@ -13,4 +13,3 @@ pipeline {
         }
     }
 }
-71413082+Valbercs12@users.noreply.github.com
